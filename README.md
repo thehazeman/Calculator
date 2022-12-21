@@ -10,7 +10,7 @@ B. Install using Android Device
 2. Select the app-debug.zip from the Github repository
 3. Extract app-debug.apk from the .zip folder
 4. Copy app-debug.apk to your device
-5. Open file explorer on your device then install the app
+5. Open file explorer on your device then install app-debug.aok
 6. Open the app
 
 Resources used:
