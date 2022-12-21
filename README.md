@@ -12,3 +12,7 @@ B. Install using Android Device
 4. Copy app-debug.apk to your device
 5. Open file explorer on your device then install the app
 6. Open the app
+
+Resources used:
+https://stackoverflow.com/questions/34985710/android-java-regex-to-remove-extra-zeros-from-sub-strings
+https://www.youtube.com/playlist?list=PLrnPJCHvNZuDQ-jWPw13-wY2J57Z6ep6G
