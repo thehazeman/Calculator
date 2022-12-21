@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_history"
+            android:icon="@drawable/ic_history"
+            android:title="Calculation History"
+           />
+        <item android:id="@+id/nav_clear"
+            android:icon="@drawable/ic_clear"
+            android:title="Clear History"
+            />
+    </group>
+
+    <item android:title="Themes">
+        <menu>
+            <item android:id="@+id/nav_dark"
+                android:icon="@drawable/ic_dark"
+                android:title="Dark (Default)" />
+            <item android:id="@+id/nav_retro"
+                android:icon="@drawable/ic_retro"
+                android:title="Retro" />
+            <item android:id="@+id/nav_bling"
+                android:icon="@drawable/ic_bling"
+                android:title="Bling" />
+
+        </menu>
+    </item>
+
+
+
+</menu>

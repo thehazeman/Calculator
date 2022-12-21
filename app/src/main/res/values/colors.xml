@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorAccent">#999998</color>
+    <color name="colorPrimary">#9C27B0</color>
+
+    <color name="retroNumbers">#fb2e01</color>
+    <color name="retroCalc">#6fcb9f</color>
+    <color name="retroText">#fffeb3</color>
+    <color name="retroTitle">#ffe28a</color>
+    <color name="retroBack">#666547</color>
+
+
+    <color name="blingNumbers">#39B6A1</color>
+    <color name="blingCalc">#1ceb2a</color>
+    <color name="blingText">#74e6e8</color>
+    <color name="blingTitle">#3AF3C7</color>
+    <color name="blingBack">#33b02a</color>
+
+    <color name="darkNumbers">#959595</color>
+    <color name="darkCalc">#6E5E45</color>
+    <color name="darkText">#FFFFFF</color>
+    <color name="darkTitle">#535353</color>
+    <color name="darkBack">#000000</color>
+
+
+</resources>
