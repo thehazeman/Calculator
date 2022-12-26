@@ -13,6 +13,10 @@ B. Install using Android Device
 5. Open file explorer on your device then install app-debug.aok
 6. Open the app
 
+C.
+1. Get android device with internet access
+2. Click the link and download: https://play.google.com/store/apps/details?id=com.haze.calculator_gui&hl=en_US&gl=US
+
 Resources used:
 https://stackoverflow.com/questions/34985710/android-java-regex-to-remove-extra-zeros-from-sub-strings
 https://www.youtube.com/playlist?list=PLrnPJCHvNZuDQ-jWPw13-wY2J57Z6ep6G
